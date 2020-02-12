@@ -10,5 +10,4 @@
 
 <img src="https://github.com/AngryFear/Figures/blob/master/huxijin.jpg" width=300>
 
-![..](https://github.com/AngryFear/Figures/blob/master/very-dou-de.png)
-  
+<img src="https://github.com/AngryFear/Figures/blob/master/many-cases.jpg" width=300>  
