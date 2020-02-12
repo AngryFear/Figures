@@ -1,4 +1,4 @@
-# Figures About Freedom of Speech
+# Figures About Freedom of Speech/the Press/Internet
 
 <img src="https://github.com/AngryFear/Figures/blob/master/liwenliang.jpg" width=300>
 
