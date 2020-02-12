@@ -10,5 +10,5 @@
 
 <img src="https://github.com/AngryFear/Figures/blob/master/huxijin.jpg" width=300>
 
-<imb src="https://github.com/AngryFear/Figures/blob/master/very-dou-de.png" width=300>
+![..](https://github.com/AngryFear/Figures/blob/master/very-dou-de.png)
   
